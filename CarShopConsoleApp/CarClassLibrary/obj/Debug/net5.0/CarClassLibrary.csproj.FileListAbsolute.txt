@@ -1,0 +1,12 @@
+C:\Users\warre\OneDrive\Documents\CST-227\CarShopConsoleApp\CarClassLibrary\bin\Debug\net5.0\CarClassLibrary.deps.json
+C:\Users\warre\OneDrive\Documents\CST-227\CarShopConsoleApp\CarClassLibrary\bin\Debug\net5.0\CarClassLibrary.dll
+C:\Users\warre\OneDrive\Documents\CST-227\CarShopConsoleApp\CarClassLibrary\bin\Debug\net5.0\ref\CarClassLibrary.dll
+C:\Users\warre\OneDrive\Documents\CST-227\CarShopConsoleApp\CarClassLibrary\bin\Debug\net5.0\CarClassLibrary.pdb
+C:\Users\warre\OneDrive\Documents\CST-227\CarShopConsoleApp\CarClassLibrary\obj\Debug\net5.0\CarClassLibrary.csprojAssemblyReference.cache
+C:\Users\warre\OneDrive\Documents\CST-227\CarShopConsoleApp\CarClassLibrary\obj\Debug\net5.0\CarClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\OneDrive\Documents\CST-227\CarShopConsoleApp\CarClassLibrary\obj\Debug\net5.0\CarClassLibrary.AssemblyInfoInputs.cache
+C:\Users\warre\OneDrive\Documents\CST-227\CarShopConsoleApp\CarClassLibrary\obj\Debug\net5.0\CarClassLibrary.AssemblyInfo.cs
+C:\Users\warre\OneDrive\Documents\CST-227\CarShopConsoleApp\CarClassLibrary\obj\Debug\net5.0\CarClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\warre\OneDrive\Documents\CST-227\CarShopConsoleApp\CarClassLibrary\obj\Debug\net5.0\CarClassLibrary.dll
+C:\Users\warre\OneDrive\Documents\CST-227\CarShopConsoleApp\CarClassLibrary\obj\Debug\net5.0\ref\CarClassLibrary.dll
+C:\Users\warre\OneDrive\Documents\CST-227\CarShopConsoleApp\CarClassLibrary\obj\Debug\net5.0\CarClassLibrary.pdb
