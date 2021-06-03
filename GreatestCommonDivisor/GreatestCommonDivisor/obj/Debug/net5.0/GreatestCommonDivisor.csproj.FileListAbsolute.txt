@@ -1,0 +1,15 @@
+C:\Users\warre\OneDrive\Documents\CST-227\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.exe
+C:\Users\warre\OneDrive\Documents\CST-227\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.deps.json
+C:\Users\warre\OneDrive\Documents\CST-227\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.runtimeconfig.json
+C:\Users\warre\OneDrive\Documents\CST-227\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.runtimeconfig.dev.json
+C:\Users\warre\OneDrive\Documents\CST-227\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.dll
+C:\Users\warre\OneDrive\Documents\CST-227\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\net5.0\ref\GreatestCommonDivisor.dll
+C:\Users\warre\OneDrive\Documents\CST-227\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.pdb
+C:\Users\warre\OneDrive\Documents\CST-227\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\OneDrive\Documents\CST-227\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.AssemblyInfoInputs.cache
+C:\Users\warre\OneDrive\Documents\CST-227\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.AssemblyInfo.cs
+C:\Users\warre\OneDrive\Documents\CST-227\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+C:\Users\warre\OneDrive\Documents\CST-227\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.dll
+C:\Users\warre\OneDrive\Documents\CST-227\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\net5.0\ref\GreatestCommonDivisor.dll
+C:\Users\warre\OneDrive\Documents\CST-227\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.pdb
+C:\Users\warre\OneDrive\Documents\CST-227\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.genruntimeconfig.cache
