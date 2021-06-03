@@ -1,0 +1,15 @@
+C:\Users\warre\OneDrive\Documents\CST-227\KnightsTour\KnightsTour\bin\Debug\net5.0\KnightsTour.exe
+C:\Users\warre\OneDrive\Documents\CST-227\KnightsTour\KnightsTour\bin\Debug\net5.0\KnightsTour.deps.json
+C:\Users\warre\OneDrive\Documents\CST-227\KnightsTour\KnightsTour\bin\Debug\net5.0\KnightsTour.runtimeconfig.json
+C:\Users\warre\OneDrive\Documents\CST-227\KnightsTour\KnightsTour\bin\Debug\net5.0\KnightsTour.runtimeconfig.dev.json
+C:\Users\warre\OneDrive\Documents\CST-227\KnightsTour\KnightsTour\bin\Debug\net5.0\KnightsTour.dll
+C:\Users\warre\OneDrive\Documents\CST-227\KnightsTour\KnightsTour\bin\Debug\net5.0\ref\KnightsTour.dll
+C:\Users\warre\OneDrive\Documents\CST-227\KnightsTour\KnightsTour\bin\Debug\net5.0\KnightsTour.pdb
+C:\Users\warre\OneDrive\Documents\CST-227\KnightsTour\KnightsTour\obj\Debug\net5.0\KnightsTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\OneDrive\Documents\CST-227\KnightsTour\KnightsTour\obj\Debug\net5.0\KnightsTour.AssemblyInfoInputs.cache
+C:\Users\warre\OneDrive\Documents\CST-227\KnightsTour\KnightsTour\obj\Debug\net5.0\KnightsTour.AssemblyInfo.cs
+C:\Users\warre\OneDrive\Documents\CST-227\KnightsTour\KnightsTour\obj\Debug\net5.0\KnightsTour.csproj.CoreCompileInputs.cache
+C:\Users\warre\OneDrive\Documents\CST-227\KnightsTour\KnightsTour\obj\Debug\net5.0\KnightsTour.dll
+C:\Users\warre\OneDrive\Documents\CST-227\KnightsTour\KnightsTour\obj\Debug\net5.0\ref\KnightsTour.dll
+C:\Users\warre\OneDrive\Documents\CST-227\KnightsTour\KnightsTour\obj\Debug\net5.0\KnightsTour.pdb
+C:\Users\warre\OneDrive\Documents\CST-227\KnightsTour\KnightsTour\obj\Debug\net5.0\KnightsTour.genruntimeconfig.cache
