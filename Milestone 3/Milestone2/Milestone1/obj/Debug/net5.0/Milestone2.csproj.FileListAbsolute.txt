@@ -1,0 +1,16 @@
+C:\Users\warre\OneDrive\Documents\CST-227\Milestone2\Milestone1\bin\Debug\net5.0\Milestone2.exe
+C:\Users\warre\OneDrive\Documents\CST-227\Milestone2\Milestone1\bin\Debug\net5.0\Milestone2.deps.json
+C:\Users\warre\OneDrive\Documents\CST-227\Milestone2\Milestone1\bin\Debug\net5.0\Milestone2.runtimeconfig.json
+C:\Users\warre\OneDrive\Documents\CST-227\Milestone2\Milestone1\bin\Debug\net5.0\Milestone2.runtimeconfig.dev.json
+C:\Users\warre\OneDrive\Documents\CST-227\Milestone2\Milestone1\bin\Debug\net5.0\Milestone2.dll
+C:\Users\warre\OneDrive\Documents\CST-227\Milestone2\Milestone1\bin\Debug\net5.0\ref\Milestone2.dll
+C:\Users\warre\OneDrive\Documents\CST-227\Milestone2\Milestone1\bin\Debug\net5.0\Milestone2.pdb
+C:\Users\warre\OneDrive\Documents\CST-227\Milestone2\Milestone1\obj\Debug\net5.0\Milestone2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\OneDrive\Documents\CST-227\Milestone2\Milestone1\obj\Debug\net5.0\Milestone2.AssemblyInfoInputs.cache
+C:\Users\warre\OneDrive\Documents\CST-227\Milestone2\Milestone1\obj\Debug\net5.0\Milestone2.AssemblyInfo.cs
+C:\Users\warre\OneDrive\Documents\CST-227\Milestone2\Milestone1\obj\Debug\net5.0\Milestone2.csproj.CoreCompileInputs.cache
+C:\Users\warre\OneDrive\Documents\CST-227\Milestone2\Milestone1\obj\Debug\net5.0\Milestone2.dll
+C:\Users\warre\OneDrive\Documents\CST-227\Milestone2\Milestone1\obj\Debug\net5.0\ref\Milestone2.dll
+C:\Users\warre\OneDrive\Documents\CST-227\Milestone2\Milestone1\obj\Debug\net5.0\Milestone2.pdb
+C:\Users\warre\OneDrive\Documents\CST-227\Milestone2\Milestone1\obj\Debug\net5.0\Milestone2.genruntimeconfig.cache
+C:\Users\warre\OneDrive\Documents\CST-227\Milestone2\Milestone1\obj\Debug\net5.0\Milestone2.csprojAssemblyReference.cache
