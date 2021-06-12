@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Milestone2": {
+      "commandName": "Project"
+    },
+    "MineSweeperGUI": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\warre\\OneDrive\\Documents\\CST-227\\Milestone 3\\Milestone2\\MineSweeperGUI",
+      "remoteDebugEnabled": false
+    }
+  }
+}
