@@ -1,0 +1,12 @@
+C:\Users\warre\OneDrive\Documents\CST-227\MinesweeperGame5\MinesweeperClassLib\bin\Debug\net5.0\MinesweeperClassLib.deps.json
+C:\Users\warre\OneDrive\Documents\CST-227\MinesweeperGame5\MinesweeperClassLib\bin\Debug\net5.0\MinesweeperClassLib.dll
+C:\Users\warre\OneDrive\Documents\CST-227\MinesweeperGame5\MinesweeperClassLib\bin\Debug\net5.0\ref\MinesweeperClassLib.dll
+C:\Users\warre\OneDrive\Documents\CST-227\MinesweeperGame5\MinesweeperClassLib\bin\Debug\net5.0\MinesweeperClassLib.pdb
+C:\Users\warre\OneDrive\Documents\CST-227\MinesweeperGame5\MinesweeperClassLib\obj\Debug\net5.0\MinesweeperClassLib.csprojAssemblyReference.cache
+C:\Users\warre\OneDrive\Documents\CST-227\MinesweeperGame5\MinesweeperClassLib\obj\Debug\net5.0\MinesweeperClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\OneDrive\Documents\CST-227\MinesweeperGame5\MinesweeperClassLib\obj\Debug\net5.0\MinesweeperClassLib.AssemblyInfoInputs.cache
+C:\Users\warre\OneDrive\Documents\CST-227\MinesweeperGame5\MinesweeperClassLib\obj\Debug\net5.0\MinesweeperClassLib.AssemblyInfo.cs
+C:\Users\warre\OneDrive\Documents\CST-227\MinesweeperGame5\MinesweeperClassLib\obj\Debug\net5.0\MinesweeperClassLib.csproj.CoreCompileInputs.cache
+C:\Users\warre\OneDrive\Documents\CST-227\MinesweeperGame5\MinesweeperClassLib\obj\Debug\net5.0\MinesweeperClassLib.dll
+C:\Users\warre\OneDrive\Documents\CST-227\MinesweeperGame5\MinesweeperClassLib\obj\Debug\net5.0\ref\MinesweeperClassLib.dll
+C:\Users\warre\OneDrive\Documents\CST-227\MinesweeperGame5\MinesweeperClassLib\obj\Debug\net5.0\MinesweeperClassLib.pdb

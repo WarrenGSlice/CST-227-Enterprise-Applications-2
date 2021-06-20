@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MinesweeperGame5/1.0.0": {
+        "dependencies": {
+          "MinesweeperClassLib": "1.0.0"
+        },
+        "runtime": {
+          "MinesweeperGame5.dll": {}
+        }
+      },
+      "MinesweeperClassLib/1.0.0": {
+        "runtime": {
+          "MinesweeperClassLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinesweeperGame5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MinesweeperClassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
