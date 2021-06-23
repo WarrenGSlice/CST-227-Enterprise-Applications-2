@@ -1,0 +1,16 @@
+C:\Users\warre\OneDrive\Documents\CST-227\TextFileDataAccessDemo\TextFileDataAccessDemo\bin\Debug\net5.0\TextFileDataAccessDemo.exe
+C:\Users\warre\OneDrive\Documents\CST-227\TextFileDataAccessDemo\TextFileDataAccessDemo\bin\Debug\net5.0\TextFileDataAccessDemo.deps.json
+C:\Users\warre\OneDrive\Documents\CST-227\TextFileDataAccessDemo\TextFileDataAccessDemo\bin\Debug\net5.0\TextFileDataAccessDemo.runtimeconfig.json
+C:\Users\warre\OneDrive\Documents\CST-227\TextFileDataAccessDemo\TextFileDataAccessDemo\bin\Debug\net5.0\TextFileDataAccessDemo.runtimeconfig.dev.json
+C:\Users\warre\OneDrive\Documents\CST-227\TextFileDataAccessDemo\TextFileDataAccessDemo\bin\Debug\net5.0\TextFileDataAccessDemo.dll
+C:\Users\warre\OneDrive\Documents\CST-227\TextFileDataAccessDemo\TextFileDataAccessDemo\bin\Debug\net5.0\ref\TextFileDataAccessDemo.dll
+C:\Users\warre\OneDrive\Documents\CST-227\TextFileDataAccessDemo\TextFileDataAccessDemo\bin\Debug\net5.0\TextFileDataAccessDemo.pdb
+C:\Users\warre\OneDrive\Documents\CST-227\TextFileDataAccessDemo\TextFileDataAccessDemo\obj\Debug\net5.0\TextFileDataAccessDemo.csprojAssemblyReference.cache
+C:\Users\warre\OneDrive\Documents\CST-227\TextFileDataAccessDemo\TextFileDataAccessDemo\obj\Debug\net5.0\TextFileDataAccessDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\OneDrive\Documents\CST-227\TextFileDataAccessDemo\TextFileDataAccessDemo\obj\Debug\net5.0\TextFileDataAccessDemo.AssemblyInfoInputs.cache
+C:\Users\warre\OneDrive\Documents\CST-227\TextFileDataAccessDemo\TextFileDataAccessDemo\obj\Debug\net5.0\TextFileDataAccessDemo.AssemblyInfo.cs
+C:\Users\warre\OneDrive\Documents\CST-227\TextFileDataAccessDemo\TextFileDataAccessDemo\obj\Debug\net5.0\TextFileDataAccessDemo.csproj.CoreCompileInputs.cache
+C:\Users\warre\OneDrive\Documents\CST-227\TextFileDataAccessDemo\TextFileDataAccessDemo\obj\Debug\net5.0\TextFileDataAccessDemo.dll
+C:\Users\warre\OneDrive\Documents\CST-227\TextFileDataAccessDemo\TextFileDataAccessDemo\obj\Debug\net5.0\ref\TextFileDataAccessDemo.dll
+C:\Users\warre\OneDrive\Documents\CST-227\TextFileDataAccessDemo\TextFileDataAccessDemo\obj\Debug\net5.0\TextFileDataAccessDemo.pdb
+C:\Users\warre\OneDrive\Documents\CST-227\TextFileDataAccessDemo\TextFileDataAccessDemo\obj\Debug\net5.0\TextFileDataAccessDemo.genruntimeconfig.cache

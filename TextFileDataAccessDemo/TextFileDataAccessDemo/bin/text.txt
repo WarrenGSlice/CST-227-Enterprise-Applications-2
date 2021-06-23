@@ -1,0 +1,5 @@
+﻿Jeff, Bexos, www.amazon.com
+Bill, Gates, www.microsoft.com
+Andy, Grove, www.intel.com
+Sheryl, Sandburg, www.facebook.com
+Steve, Jobs, www.apple.com
