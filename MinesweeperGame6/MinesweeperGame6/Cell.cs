@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 /* * * * * * * * * * * *
  * Warren Peterson * * *
- * CST-227 6/25/2021 * *
+ * CST-227 7/03/2021 * *
  * * * Milestone 6 * * *
  * This is my own work *
  * Minesweeper Combo GUI

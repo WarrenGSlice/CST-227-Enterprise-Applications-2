@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 /* * * * * * * * * * * *
  * Warren Peterson * * *
- * CST-227 6/25/2021 * *
+ * CST-227 7/03/2021 * *
  * * * Milestone 6 * * *
  * This is my own work *
  * Minesweeper Combo GUI
@@ -75,45 +75,41 @@ namespace MinesweeperGame6
             int mines = 0; // Variable to hold bomb count
             bool hasWon = false; // Variable to hold game condition
             // Loop is like method in Board class but has ability to add colors and images and calculate player score
-            for (int col = 0; col < Difficulty * 10; col++)
+            for (int cols = 0; cols < Difficulty * 10; cols++)
             {
-                for (int row = 0; row < Difficulty * 10; row++)
+                for (int rows = 0; rows < Difficulty * 10; rows++)
                 {
-                    if (board.Grid[row, col].Visited == true)// if this cell is Visited
+                    if (board.Grid[rows, cols].Visited == true)// if this cell is Visited
                     {
                         count++;
                         // if this cell has a live neighbor and this cell is not a bomb image and this cell is not a bomb
-                        if (board.Grid[row, col].LiveNeighbors != 0 && btnGrid[row, col].BackgroundImage != gameImageList.Images[1] && !board.Grid[row, col].Live)
+                        if (board.Grid[rows, cols].LiveNeighbors != 0 && btnGrid[rows, cols].BackgroundImage != gameImageList.Images[1] && !board.Grid[rows, cols].Live)
                         {
-                            btnGrid[row, col].Text = board.Grid[row, col].LiveNeighbors.ToString(); // change cell text
+                            btnGrid[rows, cols].Text = board.Grid[rows, cols].LiveNeighbors.ToString(); // change cell text
                         }
-                        btnGrid[row, col].BackColor = Color.Aquamarine; // change the color
-                        //btnGrid[row, col].Font.Bold = true;
-                        btnGrid[row, col].Enabled = false;
+                        btnGrid[rows, cols].BackColor = Color.Aquamarine; // change the color
+                        //btnGrid[row, cols].Font.Bold = true;
+                        btnGrid[rows, cols].Enabled = false;
                         playerStat.Score += 10 * Difficulty; // change player score
                     }
-                    if (board.Grid[row, col].Live) // if this cell is a bomb
+                    if (board.Grid[rows, cols].Live) // if this cell is a bomb
                     {
                         mines++;
                     }
                 }
             }
-            /*if (count == ((Difficulty * 10) * (Difficulty * 10))) // checks for win condition if all cells are checked
-            {
-                hasWon = true;
-            }*/
             // checks for win condition if all cells have been checked besides the bombs
             if (count == (((Difficulty * 10) * (Difficulty * 10))/* - mines*/))
             {
-                for (int col = 0; col < Difficulty * 10; col++)
+                for (int column = 0; column < Difficulty * 10; column++)
                 {
-                    for (int row = 0; row < Difficulty * 10; row++)
+                    for (int rows = 0; rows < Difficulty * 10; rows++)
                     {
-                        if (board.Grid[row, col].Live)
+                        if (board.Grid[rows, column].Live)
                         {
-                            board.Grid[row, col].Visited = true;
-                            btnGrid[row, col].BackgroundImage = gameImageList.Images[1];
-                            btnGrid[row, col].BackgroundImageLayout = ImageLayout.Center;
+                            board.Grid[rows, column].Visited = true;
+                            btnGrid[rows, column].BackgroundImage = gameImageList.Images[1];
+                            btnGrid[rows, column].BackgroundImageLayout = ImageLayout.Center;
                             hasWon = true;
                         }
                     }
@@ -202,9 +198,9 @@ namespace MinesweeperGame6
             {
                 for (int row = 0; row < Difficulty * 10; row++)
                 {
-                    if (board.Grid[row, col].Live && btnGrid[row, col].BackgroundImage != gameImageList.Images[0])
+                    if (board.Grid[row, col].Live && btnGrid[row, col].BackgroundImage != gameImageList.Images[1])
                     {
-                        btnGrid[row, col].BackgroundImage = gameImageList.Images[1];
+                        btnGrid[row, col].BackgroundImage = gameImageList.Images[0];
                         btnGrid[row, col].BackgroundImageLayout = ImageLayout.Center;
                     }// End of if
 
@@ -216,7 +212,6 @@ namespace MinesweeperGame6
                 }// End of for
             }// End of for
         }// End of Method
-
 
         //When Game is finished show appropriate message and display high score list page.
         private void CalculateEndGame()

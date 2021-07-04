@@ -47,11 +47,10 @@ namespace MinesweeperGame6
             this.gameBoardPanel = new System.Windows.Forms.Panel();
             this.gameImageList = new System.Windows.Forms.ImageList(this.components);
             this.gameTimer = new System.Windows.Forms.Timer(this.components);
-            this.turnsLabel = new System.Windows.Forms.Label();
-            this.elapsedTimeLabel = new System.Windows.Forms.Label();
             this.turnsCountLabel = new System.Windows.Forms.Label();
             this.displayTimerLabel = new System.Windows.Forms.Label();
             this.ExitButton = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // gameBoardPanel
@@ -75,24 +74,6 @@ namespace MinesweeperGame6
             // 
             this.gameTimer.Tick += new System.EventHandler(this.timer1_Tick);
             // 
-            // turnsLabel
-            // 
-            this.turnsLabel.AutoSize = true;
-            this.turnsLabel.Location = new System.Drawing.Point(440, 24);
-            this.turnsLabel.Name = "turnsLabel";
-            this.turnsLabel.Size = new System.Drawing.Size(42, 15);
-            this.turnsLabel.TabIndex = 3;
-            this.turnsLabel.Text = "Turns :";
-            // 
-            // elapsedTimeLabel
-            // 
-            this.elapsedTimeLabel.AutoSize = true;
-            this.elapsedTimeLabel.Location = new System.Drawing.Point(427, 73);
-            this.elapsedTimeLabel.Name = "elapsedTimeLabel";
-            this.elapsedTimeLabel.Size = new System.Drawing.Size(82, 15);
-            this.elapsedTimeLabel.TabIndex = 4;
-            this.elapsedTimeLabel.Text = "Elapsed Time :";
-            // 
             // turnsCountLabel
             // 
             this.turnsCountLabel.AutoSize = true;
@@ -111,28 +92,42 @@ namespace MinesweeperGame6
             // 
             // ExitButton
             // 
-            this.ExitButton.Location = new System.Drawing.Point(434, 377);
+            this.ExitButton.BackColor = System.Drawing.Color.Red;
+            this.ExitButton.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.ExitButton.Location = new System.Drawing.Point(322, 404);
             this.ExitButton.Name = "ExitButton";
-            this.ExitButton.Size = new System.Drawing.Size(75, 23);
+            this.ExitButton.Size = new System.Drawing.Size(75, 33);
             this.ExitButton.TabIndex = 7;
             this.ExitButton.Text = "Exit";
-            this.ExitButton.UseVisualStyleBackColor = true;
+            this.ExitButton.UseVisualStyleBackColor = false;
             this.ExitButton.Click += new System.EventHandler(this.ExitButton_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Transparent;
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.Location = new System.Drawing.Point(140, 1);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(124, 21);
+            this.label1.TabIndex = 8;
+            this.label1.Text = "MINESWEEPER";
             // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(555, 412);
+            this.BackgroundImage = global::MinesweeperGame6.Properties.Resources.purple_background;
+            this.ClientSize = new System.Drawing.Size(407, 438);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.ExitButton);
             this.Controls.Add(this.displayTimerLabel);
             this.Controls.Add(this.turnsCountLabel);
-            this.Controls.Add(this.elapsedTimeLabel);
-            this.Controls.Add(this.turnsLabel);
             this.Controls.Add(this.gameBoardPanel);
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form2";
-            this.Text = "Form2";
+            this.Text = "Minesweeper Game";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form2_FormClosing);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -140,11 +135,9 @@ namespace MinesweeperGame6
         }// End of Method
 
         #endregion
-
-        private Label turnsLabel;
-        private Label elapsedTimeLabel;
         private Label turnsCountLabel;
         private Label displayTimerLabel;
         private Button ExitButton;
+        private Label label1;
     }// End of Partial Class
 }// End of Namespace
